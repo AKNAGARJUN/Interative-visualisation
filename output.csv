@@ -1,0 +1,135 @@
+Country,Status,life_expectancy,schooling
+Afghanistan,Developing,58.19,8.21
+Albania,Developing,75.16,12.14
+Algeria,Developing,74.21,13.16
+Angola,Developing,50.68,9.47
+Argentina,Developing,75.24,16.63
+Armenia,Developing,73.31,11.73
+Australia,Developed,81.91,19.99
+Austria,Developed,81.48,15.35
+Azerbaijan,Developing,71.15,11.42
+Bangladesh,Developing,69.97,8.87
+Belarus,Developing,69.75,14.69
+Belgium,Developed,80.65,16.8
+Belize,Developing,69.15,12.43
+Benin,Developing,57.71,9.07
+Bhutan,Developing,65.92,10.07
+Bosnia and Herzegovina,Developing,76.18,13.25
+Botswana,Developing,55.41,12.11
+Brazil,Developing,73.27,14.09
+Bulgaria,Developed,72.74,13.64
+Burkina Faso,Developing,57.23,6.26
+Burundi,Developing,56.03,8.27
+Cabo Verde,Developing,72.62,12.26
+Cambodia,Developing,66.43,10.57
+Cameroon,Developing,54.86,9.34
+Canada,Developing,82.23,15.85
+Central African Republic,Developing,51.42,6.85
+Chad,Developing,52.29,6.8
+Chile,Developing,79.94,15.34
+China,Developing,74.14,11.3
+Colombia,Developing,73.19,12.14
+Comoros,Developing,61.94,10.22
+Costa Rica,Developing,78.53,12.75
+Croatia,Developed,76.79,14.51
+Cyprus,Developed,79.32,13.47
+Djibouti,Developing,62.73,5.64
+Dominican Republic,Developing,72.24,12.71
+Ecuador,Developing,74.63,12.95
+El Salvador,Developing,71.63,12.62
+Equatorial Guinea,Developing,57.9,9.2
+Eritrea,Developing,61.09,5.06
+Estonia,Developing,74.76,16.19
+Ethiopia,Developing,62.74,8.04
+Fiji,Developing,68.63,14.11
+France,Developing,82.21,15.87
+Gabon,Developing,63,12.46
+Georgia,Developing,73.45,12.59
+Germany,Developed,81.19,16.57
+Ghana,Developing,61.29,9.62
+Greece,Developing,81.23,15.85
+Guatemala,Developing,73.14,10.33
+Guinea,Developing,57.71,8.24
+Guinea-Bissau,Developing,57.37,9.03
+Guyana,Developing,65.61,10.81
+Haiti,Developing,62.9,9.1
+Honduras,Developing,72.89,10.87
+India,Developing,66,10.41
+Indonesia,Developing,67.45,11.53
+Iraq,Developing,70.39,10.24
+Ireland,Developed,83.44,18.48
+Israel,Developing,81.22,15.69
+Italy,Developed,82.15,15.91
+Jamaica,Developing,74.52,12.47
+Jordan,Developing,72.91,13.25
+Kazakhstan,Developing,66.41,13.96
+Kenya,Developing,57.88,10.12
+Kiribati,Developing,65.07,11.68
+Latvia,Developed,73.67,15.54
+Lebanon,Developing,74.15,13.77
+Lesotho,Developing,48.61,10.79
+Liberia,Developing,60.81,9.7
+Lithuania,Developed,72.75,16.07
+Luxembourg,Developed,80.7,13.62
+Madagascar,Developing,63.22,9.45
+Malawi,Developing,50.26,10.16
+Malaysia,Developing,73.67,12.53
+Maldives,Developing,75.34,11.95
+Mali,Developing,55.4,6.72
+Malta,Developed,80.88,14.42
+Mauritania,Developing,63.17,7.59
+Mauritius,Developing,72.59,13.42
+Mexico,Developing,75.65,12.26
+Mongolia,Developing,65.69,12.53
+Montenegro,Developing,75.07,14.56
+Morocco,Developing,72.01,10.17
+Mozambique,Developing,53.41,8.09
+Myanmar,Developing,64.43,8.45
+Namibia,Developing,65.02,11.54
+Nepal,Developing,67.14,10.68
+Netherlands,Developed,81.33,17.88
+Nicaragua,Developing,73.36,11.07
+Niger,Developing,61.35,4.87
+Nigeria,Developing,52.84,9.41
+Pakistan,Developing,64.72,6.93
+Panama,Developing,76.45,12.81
+Papua New Guinea,Developing,61.6,8.45
+Paraguay,Developing,72.84,12.23
+Peru,Developing,73.89,13.23
+Philippines,Developing,67.51,11.53
+Poland,Developed,75.53,15.17
+Portugal,Developed,79.92,15.89
+Romania,Developed,73.99,13.87
+Russian Federation,Developing,67.44,13.77
+Rwanda,Developing,60.46,9.55
+Samoa,Developing,73.59,12.63
+Sao Tome and Principe,Developing,65.55,10.38
+Senegal,Developing,63.78,7.48
+Serbia,Developing,74.19,13.62
+Seychelles,Developing,72.32,12.83
+Sierra Leone,Developing,48.42,8.81
+Solomon Islands,Developing,67.61,8.57
+South Africa,Developing,57.14,12.89
+Spain,Developed,82.02,16.27
+Sri Lanka,Developing,73.47,13.33
+Sudan,Developing,62.89,6.68
+Suriname,Developing,71.04,12.14
+Swaziland,Developing,50.82,10.28
+Sweden,Developed,81.9,15.85
+Syrian Arab Republic,Developing,73.16,10.64
+Tajikistan,Developing,66.85,10.79
+Thailand,Developing,72.96,12.48
+Timor-Leste,Developing,67.14,12.31
+Togo,Developing,58.09,11.31
+Tonga,Developing,72.47,14.21
+Trinidad and Tobago,Developing,71.36,12.39
+Tunisia,Developing,74.29,14.02
+Turkey,Developing,73.79,12.55
+Turkmenistan,Developing,64.6,10.48
+Uganda,Developing,56.52,10.68
+Ukraine,Developing,69.85,14.56
+Uruguay,Developing,76.01,15.21
+Uzbekistan,Developing,68.05,11.76
+Vanuatu,Developing,71.35,10.55
+Zambia,Developing,57.25,11.68
+Zimbabwe,Developing,49.39,9.79
